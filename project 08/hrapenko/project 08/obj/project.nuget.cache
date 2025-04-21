@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tmhuD5HpAU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\Веник(2 семестр)\\venediktov\\project 08\\hrapenko\\project 08\\project 08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.4\\microsoft.netcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.4\\microsoft.aspnetcore.app.runtime.win-x64.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\pavel\OneDrive\Рабочий стол\Веник(2 семестр)\venediktov\project 08\hrapenko\project 08\bin\Release\net9.0-windows\win-x64\publish\project 08.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Веник(2 семестр)\venediktov\project 08\hrapenko\project 08\bin\Release\net9.0-windows\win-x64\publish\project 08.exe
